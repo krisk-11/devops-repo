@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modified new 3 txt
+=======
+Third File 1
+>>>>>>> new-a
